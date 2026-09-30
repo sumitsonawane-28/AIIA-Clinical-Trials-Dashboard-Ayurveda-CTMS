@@ -1,0 +1,6 @@
+{
+  "name": "AIIA Clinical Trials Management System (CTMS)",
+  "description": "Comprehensive centralized clinical trial management and monitoring dashboard for the All India Institute of Ayurveda.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
